@@ -1,0 +1,254 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "tjmHt": 900,
+      "nbJours": 50,
+      "tva": 20,
+      "state": "OPTION",
+      "typePresta": "dev fullstack",
+      "client": "CGI",
+      "comment": "Merci Accenture"
+    },
+    {
+      "id": 2,
+      "tjmHt": 1200,
+      "nbJours": 10,
+      "tva": 20,
+      "state": "CONFIRMED",
+      "typePresta": "formation",
+      "client": "Modis",
+      "comment": "Formation annulée"
+    },
+    {
+      "id": 3,
+      "tjmHt": 900,
+      "nbJours": 15,
+      "tva": 20,
+      "state": "CANCELED",
+      "typePresta": "audit",
+      "client": "Sopra Steria",
+      "comment": "Audit des systèmes"
+    },
+    {
+      "id": 4,
+      "tjmHt": 1500,
+      "nbJours": 8,
+      "tva": 20,
+      "state": "OPTION",
+      "typePresta": "consulting",
+      "client": "Alten",
+      "comment": "Consulting pour un projet clé"
+    },
+    {
+      "tjmHt": 1300,
+      "nbJours": 5,
+      "tva": 20,
+      "state": "OPTION",
+      "typePresta": "développement",
+      "client": "CGI",
+      "comment": "Développement d'une nouvelle application",
+      "id": 5
+    },
+    {
+      "tjmHt": 1100,
+      "nbJours": 12,
+      "tva": 20,
+      "state": "CONFIRMED",
+      "typePresta": "support",
+      "client": "Atos",
+      "comment": "Support technique pour un client majeur",
+      "id": 6
+    },
+    {
+      "tjmHt": 1200,
+      "nbJours": 5,
+      "tva": 20,
+      "state": "CANCELED",
+      "typePresta": "formation",
+      "client": "Altran Tech",
+      "comment": "Formation sur les nouvelles technologies",
+      "id": 7
+    },
+    {
+      "tjmHt": 1200,
+      "nbJours": 1,
+      "tva": 20,
+      "state": "OPTION",
+      "typePresta": "Coaching",
+      "client": "Accenture Technologies",
+      "comment": "Yes!!!!!",
+      "id": 8
+    },
+    {
+      "tjmHt": 280,
+      "nbJours": 3,
+      "tva": 20,
+      "state": "CONFIRMED",
+      "typePresta": "Coaching",
+      "client": "Zabibu ETC",
+      "comment": null,
+      "id": 9
+    },
+    {
+      "tjmHt": 1200,
+      "nbJours": 1,
+      "tva": 20,
+      "states": "OPTION",
+      "client": "Altran",
+      "comment": "a",
+      "typePresta": "12",
+      "id": 10
+    },
+    {
+      "tjmHt": 1200,
+      "nbJours": 1,
+      "tva": 20,
+      "states": "OPTION",
+      "client": "1",
+      "comment": "mpoiuyt",
+      "typePresta": "mmmmmmm",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "tjmHt": 1200,
+      "nbJours": 1,
+      "tva": 20,
+      "state": "CANCELED",
+      "typePresta": "bbbbbbbbbb",
+      "client": "1",
+      "comment": "ppppppppppppp",
+      "states": "OPTION"
+    },
+    {
+      "id": 13,
+      "tjmHt": 1200,
+      "nbJours": 1,
+      "tva": 20,
+      "state": "CONFIRMED",
+      "typePresta": "formation",
+      "client": "4",
+      "comment": "iiiiiiiii",
+      "states": "OPTION"
+    },
+    {
+      "tjmHt": 1200,
+      "nbJours": 1,
+      "tva": 20,
+      "states": "OPTION",
+      "client": "2",
+      "comment": "yyyyyyyyyyy",
+      "typePresta": "tttttttt",
+      "id": 14
+    },
+    {
+      "tjmHt": 1200,
+      "nbJours": 1,
+      "tva": 20,
+      "states": "OPTION",
+      "client": "2",
+      "comment": "aaaaaaaaaaaaaa",
+      "typePresta": "formation",
+      "id": 15
+    },
+    {
+      "tjmHt": 1200,
+      "nbJours": 1,
+      "tva": 20,
+      "states": "OPTION",
+      "client": "1",
+      "comment": "aaaaaaaaaaaa",
+      "typePresta": "aaaaaaaaaaa",
+      "id": 16
+    },
+    {
+      "tjmHt": 1200,
+      "nbJours": 1,
+      "tva": 20,
+      "states": "OPTION",
+      "client": "2",
+      "comment": "aaaaaaaaaaaaaaa",
+      "typePresta": "aallalal",
+      "id": 17
+    },
+    {
+      "tjmHt": 1200,
+      "nbJours": 1,
+      "tva": 20,
+      "states": "OPTION",
+      "client": "2",
+      "comment": "aaaaaaaaaaaa",
+      "typePresta": "formation",
+      "id": 18
+    },
+    {
+      "tjmHt": 1200,
+      "nbJours": 1,
+      "tva": 20,
+      "states": "OPTION",
+      "client": "1",
+      "comment": "oooooooooooo",
+      "typePresta": "formation",
+      "id": 19
+    }
+  ],
+  "clients": [
+    {
+      "state": "ACTIVE",
+      "tva": 20,
+      "id": 1,
+      "name": "Capgemini",
+      "totalCaHt": 24000,
+      "comment": "Grand client fidèle"
+    },
+    {
+      "state": "INACTIVE",
+      "tva": 20,
+      "id": 2,
+      "name": "Modis",
+      "totalCaHt": 12000,
+      "comment": "Client avec des projets sporadiques"
+    },
+    {
+      "state": "ACTIVE",
+      "tva": 20,
+      "id": 3,
+      "name": "Sopra Steria",
+      "totalCaHt": 13500,
+      "comment": "Client régulier pour les audits"
+    },
+    {
+      "state": "ACTIVE",
+      "tva": 20,
+      "id": 4,
+      "name": "Alten",
+      "totalCaHt": 12000,
+      "comment": "Client clé pour des projets critiques"
+    },
+    {
+      "state": "INACTIVE",
+      "tva": 20,
+      "id": 5,
+      "name": "GFI",
+      "totalCaHt": 6500,
+      "comment": "Client avec des demandes ponctuelles"
+    },
+    {
+      "state": "ACTIVE",
+      "tva": 20,
+      "id": 6,
+      "name": "Atos",
+      "totalCaHt": 13200,
+      "comment": "Client important pour le support technique"
+    },
+    {
+      "state": "ACTIVE",
+      "tva": 20,
+      "id": 7,
+      "name": "Altran",
+      "totalCaHt": 14000,
+      "comment": "Client avec de fortes demandes en formation"
+    }
+  ]
+}

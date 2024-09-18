@@ -1,1 +1,13 @@
-<p>page-list-clients works!</p>
+<app-template-full-width>
+    <app-table-light [headers]="headers">
+        <tr *ngFor="let item of collection">
+            <td>{{item.state}}</td>
+            <td>{{item.name}}</td>
+            <td>{{item.totalCaHt}}</td>
+            <td>{{item.tva}}</td>
+            <td> {{item.comment}}</td>
+
+        </tr>
+    </app-table-light>
+    <app-btn [label]="myBtnLabel"></app-btn>
+</app-template-full-width>
